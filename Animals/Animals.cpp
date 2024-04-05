@@ -1,5 +1,4 @@
 #include "pch.h"
-#include <string.h>
 
 using namespace System;
 
@@ -19,7 +18,7 @@ private:
     String^ name;
 };
 
-int main(array<System::String^>^ args)
+int main(std::array<System::String ^> ^args)
 {
     Animal cat, dog;
 
