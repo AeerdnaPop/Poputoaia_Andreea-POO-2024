@@ -1,0 +1,3 @@
+F:\Bacau UVB\POO\Poputoaia_Andreea-POO-2024\Calculator_Andreea\calculat.7968fbb3\x64\Debug\calculator_andreea.vcxproj.AssemblyReference.cache
+F:\Bacau UVB\POO\Poputoaia_Andreea-POO-2024\Calculator_Andreea\calculat.7968fbb3\x64\Debug\calculator_andreea.Form1.resources
+F:\Bacau UVB\POO\Poputoaia_Andreea-POO-2024\Calculator_Andreea\calculat.7968fbb3\x64\Debug\calculator_andreea.vcxproj.GenerateResource.cache
